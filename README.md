@@ -5,4 +5,4 @@ Since this contains internal company information, all I can provide are screensh
 
 
 
-![Main Page](/BWDG-IT_Help-Overhaul/main_page.png?raw=true)
+![Main Page](main_page.png?raw=true)
