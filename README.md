@@ -1,5 +1,5 @@
 # BWDG-IT_Help-Overhaul
-This project was a complete overhaul of the existing IT Help menu that is pushed to all company PCs. It was hand written by myself in HTML5/CSS3 from the ground up. Since this project contains internal company information, all I can provide are screenshots and a description.
+This project was a complete overhaul of the existing IT Help menu that is pushed to all company PCs. It was handwritten by myself in HTML5/CSS3 from the ground up. Since this project contains internal company information, all I can provide are screenshots and a description.
 The previous version of these IT help files was in dire need of an update, so I volunteered to do it. I soon discovered it was still in HTML4, with little to no CSS (all of it inline), and convoluted user instructions. The folder structure was also a mess, with duplicate files, outdated documents, and additional HTML files that were not linked in the main help file. I then decided to perform a complete overhaul.
 
 ## Main Page
